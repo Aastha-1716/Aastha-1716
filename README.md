@@ -21,7 +21,8 @@ I’m a Computer Science undergraduate focused on building scalable web applicat
 Node.js, Express, MongoDB, Gemini Pro, LLaMA 3  
 - Voice-enabled chatbot (16+ languages) with real-time SSE streaming  
 - Persistent conversation memory and scalable REST APIs  
-🔗 https://aiclass-1.onrender.com/
+🔗 
+https://github.com/Aastha-1716/Farmer-Chatbot
 
 **📅 Quantum Timetable System**  
 Flask, Tailwind CSS  
@@ -43,4 +44,5 @@ DSA • Full-Stack Projects • Internships & SWE Roles (2026)
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/aastha-93a5b7291?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Email: aastha171645@gmail.com
