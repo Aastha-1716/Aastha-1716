@@ -42,5 +42,5 @@ DSA • Full-Stack Projects • Internships & SWE Roles (2026)
 ---
 
 ## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/aastha-thakur-93a5b7291  
+LinkedIn: https://www.linkedin.com/in/aastha-93a5b7291?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email: aastha171645@gmail.com
